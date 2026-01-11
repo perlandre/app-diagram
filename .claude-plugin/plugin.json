@@ -1,0 +1,9 @@
+{
+  "name": "app-diagram",
+  "description": "Generate comprehensive state machine and sequence diagrams for any application",
+  "version": "0.1.0",
+  "author": {
+    "name": "perlandre"
+  },
+  "keywords": ["diagrams", "state-machine", "sequence-diagram", "mermaid", "documentation", "architecture"]
+}
